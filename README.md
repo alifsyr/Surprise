@@ -9,9 +9,9 @@ Surprise adalah program yang dibuat dengan menggunakan bahasa Python. Program in
 <!-- icons  -->
 
 [1.1]: https://github.com/alifsyr/Surprise/blob/main/assets/icons/logo-linkedin-32px.png (Linkedin Zachrandika Alif Syahreza)
-[2.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/logo-github-32px.png (Github Zachrandika Alif Syahreza)
-[3.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/logo-instagram-32px.png (Instagram Zachrandika Alif Syahreza)
-[4.1]: https://github.com/alifsyr/alifsyr/blob/main/assets/icons/log0-email-32px.png (Email Zachrandika Alif Syahreza)
+[2.1]: https://github.com/alifsyr/Surprise/blob/main/assets/icons/logo-github-32px.png (Github Zachrandika Alif Syahreza)
+[3.1]: https://github.com/alifsyr/Surprise/blob/main/assets/icons/logo-instagram-32px.png (Instagram Zachrandika Alif Syahreza)
+[4.1]: https://github.com/alifsyr/Surprise/blob/main/assets/icons/log0-email-32px.png (Email Zachrandika Alif Syahreza)
 
 <!-- links to social media accounts -->
 
